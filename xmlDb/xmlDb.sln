@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xmlDb", "xmlDb\xmlDb.csproj", "{0D8B0DB8-54E6-407B-9502-812F4BB05983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D8B0DB8-54E6-407B-9502-812F4BB05983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8B0DB8-54E6-407B-9502-812F4BB05983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D8B0DB8-54E6-407B-9502-812F4BB05983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D8B0DB8-54E6-407B-9502-812F4BB05983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2D8D35B-8295-419E-9EC1-88F323E87C9D}
+	EndGlobalSection
+EndGlobal

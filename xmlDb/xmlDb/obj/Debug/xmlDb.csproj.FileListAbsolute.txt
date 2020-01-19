@@ -1,0 +1,9 @@
+C:\Users\Tariku\source\repos\xmlDb\xmlDb\bin\Debug\xmlDb.exe.config
+C:\Users\Tariku\source\repos\xmlDb\xmlDb\bin\Debug\xmlDb.exe
+C:\Users\Tariku\source\repos\xmlDb\xmlDb\bin\Debug\xmlDb.pdb
+C:\Users\Tariku\source\repos\xmlDb\xmlDb\obj\Debug\xmlDb.csprojAssemblyReference.cache
+C:\Users\Tariku\source\repos\xmlDb\xmlDb\obj\Debug\xmlDb.Form1.resources
+C:\Users\Tariku\source\repos\xmlDb\xmlDb\obj\Debug\xmlDb.Properties.Resources.resources
+C:\Users\Tariku\source\repos\xmlDb\xmlDb\obj\Debug\xmlDb.csproj.GenerateResource.cache
+C:\Users\Tariku\source\repos\xmlDb\xmlDb\obj\Debug\xmlDb.exe
+C:\Users\Tariku\source\repos\xmlDb\xmlDb\obj\Debug\xmlDb.pdb

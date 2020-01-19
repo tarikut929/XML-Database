@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <Id>ATR/9578/09</Id>
+    <Name>Tariku W/Michael</Name>
+  </Person>
+  <Person>
+    <Id>ATR/6788/09</Id>
+    <Name>Gemechu Tola</Name>
+  </Person>
+</ArrayOfPerson>
